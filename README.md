@@ -1,5 +1,9 @@
-## 職務経歴書 / RESUME
-職務経歴書管理リポジトリ
+## 職務経歴書管理リポジトリ
+職務経歴書は以下から確認できます。
+- Markdown : [docs/README.md](./docs/README.md)
+- PDF : [GitHub Release](https://github.com/rynskrmt/resume/releases)
+- GitHub Pages : https://rynskrmt.github.io/resume/
+
 
 ## 本リポジトリのテンプレート
 https://github.com/kawamataryo/resume-template
