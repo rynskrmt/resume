@@ -5,6 +5,7 @@
 | key     | value                                |
 | ------- | ------------------------------------ |
 | 氏名    | 狩俣 隆ノ介（カリマタ リュウノスケ） |
+| About   | https://rynskrmt.dev/about           |
 | GitHub  | https://github.com/rynskrmt          |
 | Twitter | @rynskrmt                            |
 | Zenn    | https://zenn.dev/rynskrmt            |
